@@ -1,0 +1,53 @@
+
+html,body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.back{
+	background-image: url("8.jpg");
+	background-size: cover;	
+	background-position: center;
+	background-repeat: no-repeat;
+	/*height: 100%;
+	width: 100%;*/
+	}
+
+
+#white{
+	color: orange;
+	text-align: center;
+	font-size: 300%;
+	font-family: serif;
+}
+.img1{
+	float: right;
+
+}
+.clearfix{
+	border-style: groove;
+
+	text-align: justify;
+
+	border-color: pink;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	color: white;
+	margin-left: 60%;
+	margin-right: 20%;
+}
+
+
+	
+
+
+/*#side{
+	color: white;
+	text-align: right;
+	border: 3px solid pink;
+	padding: 5px;
+
+}*/
